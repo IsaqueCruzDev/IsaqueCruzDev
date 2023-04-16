@@ -13,8 +13,7 @@
   <img align="center" alt="isaque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="isaque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="isaque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="isaque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="isaque-CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://icons8.com/icon/Vra58PN2KmI5/react)">
+  <img align="center" alt="isaque-CSS" height="30" width="40" src="![image](https://user-images.githubusercontent.com/109301291/232320652-470e96bc-0ef5-46fe-abb9-d7c027371711.png)">
 </div>
 
 ##
