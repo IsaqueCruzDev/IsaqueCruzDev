@@ -16,7 +16,7 @@ Eu também sou um ex estudante no Instituro Proa, uma ONG voltada a tecnologia.
 * ⚡ Eu adoro esportes e meu favorito é o Futebol.
 
 <a href="https://github.com/IsaqueCruzDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/isaquecruzdev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
