@@ -30,6 +30,8 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://mysql.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MYSQL" /></a>
 </p>
+<a href="https://java.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java=-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>
 
 ### Socials
 
