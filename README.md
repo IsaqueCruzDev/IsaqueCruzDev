@@ -6,7 +6,7 @@ Full Stack Software Developer
 
 Eu sou um desenvolvedor de  18 anos,  comecei a programar quando tinha 15. Eu adoro programar e descobrir como resolver problemas complexos usando tecnologias avançadas. Meu foco principal é o desenvolvimento front-end e back-end, criando aplicações que impactam a vida de dos usuários.
 
-Eu também sou um ex estudante no Instituro Proa, uma ONG voltada a tecnologia.
+Eu também sou um ex estudante no Instituto Proa, uma ONG voltada a tecnologia.
 
 * 🌍 Estou localizado em São Paulo, Brasil.
 * ✉️ Você pode entrar em contato comigo pelo e-mail isaquedeoliveiracruz@outlook.com
