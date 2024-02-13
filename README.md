@@ -1,17 +1,15 @@
  Olá 👋 Meu nome é isaque!
 ==========================
 
-Full Stack Software Developer
+Analista de Dados
 -----------------------------
 
-Eu sou um desenvolvedor de  18 anos,  comecei a programar quando tinha 15. Eu adoro programar e descobrir como resolver problemas complexos usando tecnologias avançadas. Meu foco principal é o desenvolvimento front-end e back-end, criando aplicações que impactam a vida de dos usuários.
-
-Eu também sou um ex estudante no Instituto Proa, uma ONG voltada a tecnologia.
+Apaixonado por tecnologia e com uma forte base em matemática e estatística, estou cursando Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas. Habilidades em machine learning e Python. Tenho experiência em desenvolvimento de software e projetos web, com um interesse crescente em ciência de dados.
 
 * 🌍 Estou localizado em São Paulo, Brasil.
 * ✉️ Você pode entrar em contato comigo pelo e-mail isaquedeoliveiracruz@outlook.com
-* 🚀 Atualmente, estou atuando como desenvolvedor de software full stack 
-* 🧠 Estou aprendendo React avançado e as linguagens de programação Java/node.js.
+* 🚀 Atualmente, estou atuando como desenvolvedor de software front end.
+* 🧠 Estou aprendendo Python avançado, acompanhado de Pandas e Power BI Avançado.
 * 🤝 Estou aberto a colaborar em projetos que tenham um alto impacto na vida das pessoas.
 * ⚡ Eu adoro esportes e meu favorito é o Futebol.
 
