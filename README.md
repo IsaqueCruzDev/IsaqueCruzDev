@@ -4,7 +4,7 @@
 Analista de Dados
 -----------------------------
 
-Apaixonado por tecnologia e com uma forte base em matemática e estatística, estou cursando Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas. Habilidades em machine learning e Python. Tenho experiência em desenvolvimento de software e projetos web, com um interesse crescente em ciência de dados.
+Apaixonado por tecnologia e com uma forte base em matemática e estatística, estou cursando Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas. Habilidades em Power BI e Python. Tenho experiência em desenvolvimento de software e projetos web, com um interesse crescente em ciência de dados.
 
 * 🌍 Estou localizado em São Paulo, Brasil.
 * ✉️ Você pode entrar em contato comigo pelo e-mail isaquedeoliveiracruz@outlook.com
