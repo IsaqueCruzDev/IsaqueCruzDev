@@ -1,17 +1,17 @@
  Olá 👋 Meu nome é isaque!
 ==========================
 
-Analista de Dados
+Desenvolvedor Full-Stack
 -----------------------------
 
-Apaixonado por tecnologia e com uma forte base em matemática e estatística, estou cursando Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas. Habilidades em Power BI e Python. Tenho experiência em desenvolvimento de software e projetos web, com um interesse crescente em ciência de dados.
+Apaixonado por tecnologia e com uma forte base em lógica de programação e algorítmos, estou cursando Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas. Habilidades em Java e SpringBoot. Tenho experiência em desenvolvimento de software e projetos web.
 
 * 🌍 Estou localizado em São Paulo, Brasil.
 * ✉️ Você pode entrar em contato comigo pelo e-mail isaquedeoliveiracruz@outlook.com
 * 🚀 Atualmente, estou atuando como desenvolvedor de software front end.
-* 🧠 Estou aprendendo Python avançado, acompanhado de Pandas e Power BI Avançado.
+* 🧠 Estou aprendendo Angular avançado, acompanhado de Java e SpringBoot Avançado.
 * 🤝 Estou aberto a colaborar em projetos que tenham um alto impacto na vida das pessoas.
-* ⚡ Eu adoro esportes e meu favorito é o Futebol.
+* ⚡ Eu adoro esportes e meu favorito é o basquete.
 
 <a href="https://github.com/IsaqueCruzDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/isaquecruzdev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
