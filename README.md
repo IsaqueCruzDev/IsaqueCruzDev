@@ -1,20 +1,19 @@
- Olá 👋 Meu nome é isaque!
+Hello 👋 My name is Isaque!
 ==========================
 
-Desenvolvedor Full-Stack
+Front-End Developer
 -----------------------------
 
-Apaixonado por tecnologia e com uma forte base em lógica de programação e algorítmos, estou cursando Tecnologia da Informação com foco em Análise e Desenvolvimento de Sistemas. Habilidades em Java e SpringBoot. Tenho experiência em desenvolvimento de software e projetos web.
+Passionate about technology with a strong foundation in programming logic and algorithms, I am currently pursuing a degree in Information Technology focused on Systems Analysis and Development. I have skills in Java and Spring Boot and experience in software development and web projects.
 
-* 🌍 Estou localizado em São Paulo, Brasil.
-* ✉️ Você pode entrar em contato comigo pelo e-mail isaquedeoliveiracruz@outlook.com
-* 🚀 Atualmente, estou atuando como desenvolvedor de software front end.
-* 🧠 Estou aprendendo Angular avançado, acompanhado de Java e SpringBoot Avançado.
-* 🤝 Estou aberto a colaborar em projetos que tenham um alto impacto na vida das pessoas.
-* ⚡ Eu adoro esportes e meu favorito é o basquete.
+* 🌍 I am based in São Paulo, Brazil.
+* ✉️ You can contact me at isaquedeoliveiracruz@outlook.com
+* 🚀 I am currently working as a front-end software developer.
+* 🧠 I am learning advanced Angular, along with advanced Java and Spring Boot.
+* 🤝 I am open to collaborating on projects that have a high impact on people's lives.
+* ⚡ I love sports, and my favorite is basketball.
 
-<a href="https://github.com/IsaqueCruzDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/isaquecruzdev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://github.com/IsaqueCruzDev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/isaquecruzdev?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
